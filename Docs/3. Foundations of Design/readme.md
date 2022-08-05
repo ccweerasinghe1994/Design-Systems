@@ -1,14 +1,40 @@
 # [DESIGN SYSTEMS Home Page 🏠](../../README.MD)
 
+- [DESIGN SYSTEMS Home Page 🏠](#design-systems-home-page-)
+  - [Foundations of Design](#foundations-of-design)
+    - [Color Overview](#color-overview)
+      - [Color](#color)
+      - [Color Mixing](#color-mixing)
+      - [Additive Color Mixing (RGB)](#additive-color-mixing-rgb)
+      - [Subtractive Color Mixing (CYMK)](#subtractive-color-mixing-cymk)
+    - [Color types](#color-types)
+      - [Primary Colors](#primary-colors)
+      - [Secondary Colors](#secondary-colors)
+      - [Tertiary Colors](#tertiary-colors)
+    - [Color palettes](#color-palettes)
+      - [Monochromatic](#monochromatic)
+      - [Complementary](#complementary)
+      - [Analogous](#analogous)
+      - [Triadic](#triadic)
+    - [2. Color Terminology](#2-color-terminology)
+    - [3. Color Semantics](#3-color-semantics)
+    - [4. Color Values](#4-color-values)
+    - [5. Creating a Color Palette](#5-creating-a-color-palette)
+    - [6. Color Palette Practice](#6-color-palette-practice)
+    - [7. Typography](#7-typography)
+    - [8. Fonts](#8-fonts)
+    - [9. Typescale](#9-typescale)
+    - [10. Typescale Exercise](#10-typescale-exercise)
+    - [11. Typescale Solution](#11-typescale-solution)
+    - [12. Other Areas of Design](#12-other-areas-of-design)
+
 ## Foundations of Design
 
-### 1. Color Overview
+### Color Overview
 
 #### Color
 
 Before we can code our component library we have to design some of the foundational elements of our design system.
-
-##### Color
 
 Color is one of the most important foundational elements of a design system and impacts every single component.
 
@@ -40,7 +66,79 @@ Photos and magazines use subtractive colors.
 
 ![image](../img/27.png)
 
+### Color types
+
+![image](../img/28.png)
+
+#### Primary Colors
+
+In the RYB color wheel primary colors are colors which cannot be created by combining other colors. These are red, yellow, and blue.
+
+![image](../img/29.png)
+
+#### Secondary Colors
+
+Secondary colors result from mixing two primary colors. In the RGB color wheel, secondary colors are cyan, magenta, and yellow.
+
+In the RYB color wheel the secondary colors are purple, orange, and green.
+![image](../img/30.png)
+
+#### Tertiary Colors
+
+Tertiary colors are created by combining a secondary color with a primary color. There are six tertiary colors.
+
+The tertiary colors are red-orange, yellow-orange, yellow-green, blue-green, blue-violet, and red-violet.
+
+![image](../img/31.png)
+
+### Color palettes  
+
+There are several types of color combinations which can be used to build color palettes.
+
+#### Monochromatic
+
+Monochromatic palettes are created by establishing variations on a shade of a single color.
+
+![image](../img/32.png)
+
+#### Complementary
+
+Complementary color palettes are created by selecting two colors directly opposite of each other on the color wheel.
+
+![image](../img/33.png)
+
+#### Analogous
+
+Analogous color palettes are created by selecting three colors which are side by side on the color wheel.
+
+![image](../img/34.png)
+
+#### Triadic
+
+Triadic color palettes are created by selecting three evenly-spaced colors from around the color wheel.
+
 ### 2. Color Terminology
+
+![image](../img/35.png)
+
+![image](../img/36.png)
+![image](../img/37.png)
+![image](../img/38.png)
+![image](../img/39.png)
+![image](../img/40.png)
+![image](../img/41.png)
+![image](../img/42.png)
+![image](../img/43.png)
+![image](../img/44.png)
+![image](../img/45.png)
+![image](../img/46.png)
+![image](../img/47.png)
+![image](../img/48.png)
+![image](../img/49.png)
+![image](../img/50.png)
+![image](../img/51.png)
+
+####
 
 ### 3. Color Semantics
 
