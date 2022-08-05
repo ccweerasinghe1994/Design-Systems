@@ -36,6 +36,10 @@
       - [Gray](#gray)
       - [Brown](#brown)
     - [4. Color Values](#4-color-values)
+      - [HEX](#hex)
+      - [RGB](#rgb)
+      - [RGBA](#rgba)
+      - [CYMK](#cymk)
     - [5. Creating a Color Palette](#5-creating-a-color-palette)
     - [6. Color Palette Practice](#6-color-palette-practice)
     - [7. Typography](#7-typography)
@@ -239,7 +243,27 @@ Brown is used to create a sense of dependability, reliability, and earthiness bu
 
 ### 4. Color Values
 
+#### HEX
+
+Hex, or hexadecimal, is the base-16 representation of a color where each value can range from 0-9 and A-F.
+
+#### RGB
+
+RGB is the additive color mixing model which allows you to create colors by mixing red, green, and blue light sources. This is used in digital media design.
+
+#### RGBA
+
+RGBA is additive color mixing model which allows you to create colors by mixing red, green, and blue light sources, but incorporates a fourth value, alpha.
+
+Alpha indicates how opaque each pixel is.
+
+#### CYMK
+
+CYMK is the subtractive color mixing model used in print design.
+
 ### 5. Creating a Color Palette
+
+<https://www.figma.com/file/wKP0FUsnweuZpCXcBlKHr4/Design-System-%F0%9F%8C%B5?node-id=0%3A1>
 
 ### 6. Color Palette Practice
 
