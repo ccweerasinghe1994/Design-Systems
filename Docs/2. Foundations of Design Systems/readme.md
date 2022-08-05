@@ -229,7 +229,7 @@ in the near future?
 
 ![image](../img/13.png)
 
-### Prioritizing components
+### Prioritizing components list
 
 ![image](../img/14.png)
 
@@ -241,10 +241,28 @@ in the near future?
 
 ![image](../img/16.png)
 
-### Create your checklists
-
 ### Define your workflows
 
 ## 8. Design System Checklist
 
+### Create your checklists
+
+![image](../img/17.png)
+
+![image](../img/18.png)
+
 ## 9. Common Mistakes
+
+![image](../img/19.png)
+
+![image](../img/20.png)
+
+![image](../img/21.png)
+
+![image](../img/22.png)
+
+![image](../img/23.png)
+
+![image](../img/24.png)
+
+![image](../img/25.png)
