@@ -17,6 +17,12 @@
       - [Analogous](#analogous)
       - [Triadic](#triadic)
     - [2. Color Terminology](#2-color-terminology)
+      - [Hue](#hue)
+      - [Saturation](#saturation)
+      - [Luminance](#luminance)
+      - [Shade](#shade)
+      - [Tint](#tint)
+      - [Tone](#tone)
     - [3. Color Semantics](#3-color-semantics)
     - [4. Color Values](#4-color-values)
     - [5. Creating a Color Palette](#5-creating-a-color-palette)
@@ -118,17 +124,50 @@ Analogous color palettes are created by selecting three colors which are side by
 
 Triadic color palettes are created by selecting three evenly-spaced colors from around the color wheel.
 
-### 2. Color Terminology
-
 ![image](../img/35.png)
 
+### 2. Color Terminology
+
 ![image](../img/36.png)
+
+#### Hue
+
+A hue is any color on the color wheel. Variations on this hue are created by establishing a shade, tint, or tone.
+
 ![image](../img/37.png)
+
+#### Saturation
+
+Saturation is the intensity or purity of a color.
+
 ![image](../img/38.png)
+
+#### Luminance
+
+Luminance is the amount of brightness, or light, in a color.
+
 ![image](../img/39.png)
+
+#### Shade
+
+A shade is created by incorporating black to a base hue, which darkens the color.
+
 ![image](../img/40.png)
+
+#### Tint
+
+A tint is created by adding white to a base hue, which lightens the color.
+
 ![image](../img/41.png)
+
+#### Tone
+
+A tone is created by combining black or white (gray) with a base hue. Tones are subtle variations of the original color.
+
 ![image](../img/42.png)
+
+####
+
 ![image](../img/43.png)
 ![image](../img/44.png)
 ![image](../img/45.png)
@@ -138,8 +177,6 @@ Triadic color palettes are created by selecting three evenly-spaced colors from 
 ![image](../img/49.png)
 ![image](../img/50.png)
 ![image](../img/51.png)
-
-####
 
 ### 3. Color Semantics
 
