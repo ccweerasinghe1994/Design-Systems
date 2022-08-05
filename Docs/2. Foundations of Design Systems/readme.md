@@ -69,6 +69,30 @@ production is greatly reduced.
 
 ## 2. Drawbacks of Design Systems
 
+### Time
+
+Design systems take time to
+build.
+
+### Evolution
+
+A design system is never
+complete. It's a product serving
+products.
+
+### Maintenance
+
+A design system is a living,
+breathing product which has
+lifecycles and requires
+maintenance.
+
+### Investment
+
+We need designers, engineers,
+and product managers to ensure
+the success of the system.
+
 ## 3. Team Structure
 
 ## 4. Who are Design Systems For_
