@@ -81,6 +81,7 @@ In the RYB color wheel primary colors are colors which cannot be created by comb
 Secondary colors result from mixing two primary colors. In the RGB color wheel, secondary colors are cyan, magenta, and yellow.
 
 In the RYB color wheel the secondary colors are purple, orange, and green.
+
 ![image](../img/30.png)
 
 #### Tertiary Colors
